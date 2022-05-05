@@ -1,9 +1,15 @@
 *{
 box-sizing: border-box;
-margin: 0;
-padding: 0;
+padding: auto;
+margin: auto;
 }
 
 html, body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#app{
+   text-align: center;
+   margin-top: 300px;
 }
